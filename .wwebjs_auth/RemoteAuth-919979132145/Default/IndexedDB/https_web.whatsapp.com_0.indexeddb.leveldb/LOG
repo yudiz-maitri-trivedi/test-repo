@@ -1,0 +1,19 @@
+2024/01/03-16:05:12.674 5503 Reusing MANIFEST /Users/maitri/Downloads/wp-web-main/.wwebjs_auth/RemoteAuth-919979132145/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/03-16:05:12.675 5503 Recovering log #103
+2024/01/03-16:05:12.781 5503 Reusing old log /Users/maitri/Downloads/wp-web-main/.wwebjs_auth/RemoteAuth-919979132145/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000103.log 
+2024/01/03-16:05:27.917 11603 Level-0 table #111: started
+2024/01/03-16:05:27.958 11603 Level-0 table #111: 1003692 bytes OK
+2024/01/03-16:05:28.003 11603 Delete type=0 #103
+2024/01/03-16:05:28.166 b803 Compacting 1@1 + 4@2 files
+2024/01/03-16:05:28.241 b803 Generated table #112@1: 31722 keys, 2193990 bytes
+2024/01/03-16:05:28.282 b803 Generated table #113@1: 2751 keys, 2159167 bytes
+2024/01/03-16:05:28.358 b803 Generated table #114@1: 26588 keys, 2232123 bytes
+2024/01/03-16:05:28.465 b803 Generated table #115@1: 88107 keys, 2234811 bytes
+2024/01/03-16:05:28.488 b803 Generated table #116@1: 3515 keys, 75755 bytes
+2024/01/03-16:05:28.488 b803 Compacted 1@1 + 4@2 files => 8895846 bytes
+2024/01/03-16:05:28.532 b803 compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/01/03-16:05:28.533 b803 Delete type=2 #105
+2024/01/03-16:05:28.533 b803 Delete type=2 #111
+2024/01/03-16:05:28.533 b803 Delete type=2 #107
+2024/01/03-16:05:28.533 b803 Delete type=2 #106
+2024/01/03-16:05:28.533 b803 Delete type=2 #108

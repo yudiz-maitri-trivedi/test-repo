@@ -1,0 +1,27 @@
+/* eslint-disable no-dupe-keys */
+module.exports = {
+  username: 'उपयोगकर्ता नाम',
+  mobileNumber: 'मोबाइल नंबर',
+  email: 'ईमेल',
+  permission: 'अनुमति',
+  permissions: 'अनुमतियां',
+  cpassword: 'कुंजिका',
+  subAdmin: 'Sub Admin',
+  role: 'Role',
+  croles: 'Roles',
+  roles: 'Roles',
+  cMatchLogs: 'मैच लॉग',
+  cLeagueLogs: 'लीग लॉग',
+  feedback: 'प्रतिक्रिया',
+  complain: 'शिकायत',
+  complaints: 'शिकायतों',
+  image: 'छवि',
+  user: 'उपयोगकर्ता',
+  cAdminlog: 'व्यवस्थापक लॉग',
+  cToken: 'टोकन',
+  cRoleName: 'Role name',
+  status: 'status',
+  user: 'User',
+  session: 'Session',
+  image: 'Image'
+}
